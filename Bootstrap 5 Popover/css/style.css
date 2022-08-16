@@ -1,0 +1,51 @@
+.container {
+    border: 5px solid black;
+}
+
+.container-fluid {
+    border: 5px solid red;
+}
+
+.row {
+    border: 2px solid rgb(6, 245, 185);
+}
+
+.box-1 {
+    background: gray;
+}
+
+.box-2 {
+    background: gold;
+}
+
+.box-3 {
+    background: green;
+}
+
+.box-4 {
+    background: blue;
+}
+
+.box-5 {
+    background: rebeccapurple;
+}
+
+.box-6 {
+    background: purple;
+}
+
+.box-7 {
+    background: pink;
+}
+
+.box-8 {
+    background: black;
+}
+
+.box-9 {
+    background: darkblue;
+}
+
+.box-10 {
+    background: white;
+}
